@@ -59757,7 +59757,7 @@ T(a){var s=null,r=A.f6(10),q=A.a90(B.dV)
 return A.iw(A.Dp(this.c,s,s,B.L8),new A.d7(B.bp,s,q,r,s,s,B.aq),s,s,B.z3,s)}}
 A.nu.prototype={
 T(a){var s=null,r=t.E
-return A.a6P(B.bp,A.a6O(A.mB(A.d([B.Ed,A.O4(A.a6V(A.yB(new A.hv(B.iR,A.mB(A.d([B.eW,B.Me,B.im,A.iw(s,new A.d7(B.cF,s,s,A.f6(10),s,s,B.aq),3,s,s,40),B.uZ,B.F6,B.uY,B.F8,B.uY,B.F7,B.v0,A.XW(A.a9P(B.kd,B.vi,new A.UF(a),A.a66(s,s,B.cF,s,s,s,0,s,s,B.j,s,s,s,s,new A.cv(A.f6(10),B.t),s,s,s,s,s)),44,s),B.eW],r),B.ak,B.av),s),s,s),B.k0))],r),B.aP,B.av),!0))}}
+return A.a6P(B.bp,A.a6O(A.mB(A.d([B.Ed,A.O4(A.a6V(A.yB(new A.hv(B.iR,A.mB(A.d([B.eW,B.Me,B.im,A.iw(s,new A.d7(B.cF,s,s,A.f6(10),s,s,B.aq),3,s,s,40),B.uZ,B.F7,B.uY,B.F8,B.uY,B.F6,B.v0,A.XW(A.a9P(B.kd,B.vi,new A.UF(a),A.a66(s,s,B.cF,s,s,s,0,s,s,B.j,s,s,s,s,new A.cv(A.f6(10),B.t),s,s,s,s,s)),44,s),B.eW],r),B.ak,B.av),s),s,s),B.k0))],r),B.aP,B.av),!0))}}
 A.UF.prototype={
 $0(){A.B5(this.a).zk(null)},
 $S:0}
@@ -63476,10 +63476,10 @@ B.F2=new A.np(3,"scale")
 B.F3=new A.np(4,"unknown")
 B.F4=new A.ti(null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.F5=new A.tl(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.zu=new A.iI(984512,"MaterialIcons",!1)
-B.F6=new A.nt(B.zu,"Sign Language Interpreter","An ML-driven system leveraging computer vision to translate hand gesture recognition into readable text and speech output.",null)
 B.zt=new A.iI(62657,"MaterialIcons",!1)
-B.F7=new A.nt(B.zt,"Portfolio Website","A personal portfolio website created using HTML and CSS to showcase my skills and projects.",null)
+B.F6=new A.nt(B.zt,"Portfolio Website","A responsive portfolio built with flutter to showcase my skills and projects.",null)
+B.zu=new A.iI(984512,"MaterialIcons",!1)
+B.F7=new A.nt(B.zu,"Sign Language Interpreter","An ML-driven system leveraging computer vision to translate hand gesture recognition into readable text and speech output.",null)
 B.zs=new A.iI(62600,"MaterialIcons",!1)
 B.F8=new A.nt(B.zs,"QuoRix","An AI-powered Video-to-Text Intelligence system that analyzes videos using speech recognition and image analysis.",null)
 B.F9=new A.nu(null)
